@@ -1,4 +1,5 @@
 
+
 public class Jogador extends Pessoa{
 	private String jogador;
 

@@ -1,4 +1,4 @@
-
+ 
 public class Tecnico extends Pessoa{
 	private String especialidade;
 
